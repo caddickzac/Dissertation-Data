@@ -4,7 +4,9 @@ Dissertation title: "Learning, Choice Consistency, and Individual Differences in
 
 
 Project Resources:
+
 [OSF Pre-registration](https://osf.io/n75cz/)
+
 [Who Won the Election Task Stimuli)[https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/readme.md]
 
 
