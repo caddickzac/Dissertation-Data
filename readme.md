@@ -11,9 +11,9 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 
 ## Data
 * [Study 1 Data](https://github.com/caddickzac/Dissertation-Data/tree/main/Study1)
-* IN PROGRESS "[Study 2 Data]()"
-* IN PROGRESS "[Study 3 Data]()"
-* IN PROGRESS "[Study 4 Data]()"
+* IN PROGRESS [Study 2 Data]
+* IN PROGRESS [Study 3 Data]
+* IN PROGRESS [Study 4 Data]
 
 
 ## Project Resources:
