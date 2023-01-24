@@ -1,11 +1,19 @@
-Data from Zachary A. Caddick's dissertation will be posted in this repository. 
+# Learning, Choice Consistency, and Individual Differences in How People Think Elections Should be Decided
 
+Authors: [Caddick, Z. A.](https://orcid.org/0000-0002-3369-7727), [Rottman, B. M.](http://orcid.org/0000-0002-4718-3970)
 
-Dissertation title: "Learning, Choice Consistency, and Individual Differences in How People Think Elections Should be Decided"
+Lab: [Causal Learning and Decision Making Lab](http://www.lrdc.pitt.edu/rottman/)
 
+Paper Citation: 
+Caddick, Z.A., Rottman, B.M. (2022). Learning, Choice Consistency, and Individual Differences in How People Think Elections Should be Decided, *Dissertation at University of Pittsburgh*. 
+
+For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gmail.com). 
 
 ## Data
 * [Study 1 Data](https://github.com/caddickzac/Dissertation-Data/tree/main/Study1)
+* [Study 2 Data]()
+* [Study 3 Data]()
+* [Study 4 Data]()
 
 
 ## Project Resources:
