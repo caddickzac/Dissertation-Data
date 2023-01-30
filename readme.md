@@ -9,7 +9,7 @@ Caddick, Z.A., Rottman, B.M. (2023). Learning, Choice Consistency, and Individua
 
 For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gmail.com). 
 
-**For convenience and simplicity, the data is summarized at the participant level. Item level and derivation data has been omitted, but is available upon request. Data files are excel workbooks that contain data dictionaries.**
+**Information:**For convenience and simplicity, the data is summarized at the participant level. Item level and derivation data has been omitted, but is available upon request. Data files are excel workbooks that contain data dictionaries.
 
 ## Data
 * [Study 1 Data](https://github.com/caddickzac/Dissertation-Data/tree/main/Study1)
