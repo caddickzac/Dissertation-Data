@@ -20,7 +20,7 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 
 ## Project Resources:
 * [OSF Pre-registration](https://osf.io/n75cz/)
-* [Who Won the Election Task stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/readme.md)
+* [Who Won the Election Task stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task)
 
 
 
