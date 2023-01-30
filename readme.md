@@ -14,8 +14,8 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 ## Data
 * [Study 1 Data](https://github.com/caddickzac/Dissertation-Data/tree/main/Study1)
 * [Study 2 Data](https://github.com/caddickzac/Dissertation-Data/tree/main/Study2)
-* IN PROGRESS [Study 3 Data]
-* IN PROGRESS [Study 4 Data]
+* [Study 3 Data](https://github.com/caddickzac/Dissertation-Data/tree/main/Study3)
+* [Study 4 Data](https://github.com/caddickzac/Dissertation-Data/tree/main/Study4)
 
 
 ## Project Resources:
