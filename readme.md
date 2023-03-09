@@ -18,7 +18,7 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 * [Study 4 Data](https://github.com/caddickzac/Dissertation-Data/tree/main/Study4)
 
 
-## Project Resources:
+## Project Resources
 * [OSF Pre-registration](https://osf.io/n75cz/)
 * [Who Won the Election Task stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task)
 
