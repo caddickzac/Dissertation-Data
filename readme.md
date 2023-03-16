@@ -7,7 +7,7 @@ Lab: [Causal Learning and Decision Making Lab](http://www.lrdc.pitt.edu/rottman/
 Paper Citation: 
 Caddick, Z.A., Rottman, B.M. (2023). Learning, Choice Consistency, and Individual Differences in How People Think Elections Should be Decided, *Dissertation at University of Pittsburgh*. [Link](http://d-scholarship.pitt.edu/44049/) 
 
-**Information:** The data is summarized at the participant level for convenience and simplicity. Item level and derivation data has been omitted, but is available upon request. Data files are excel workbooks that contain data dictionaries.
+**Information:** Data files are excel workbooks that contain data dictionaries. The data is summarized at the participant level for convenience and simplicity. Item level and derivation data has been omitted, but is available upon request.
 
 For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gmail.com). 
 
